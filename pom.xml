@@ -9,8 +9,8 @@
 		<version>4.0.6</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.jenkins.cicd</groupId>
-	<artifactId>sbJenkinsCiCd</artifactId>
+	<groupId>com.ebs.ems</groupId>
+	<artifactId>ebs-ems</artifactId>
 	<version>1</version>
 	<name />
 	<description />
